@@ -1,0 +1,2 @@
+# fibscale
+Java trading bot 
