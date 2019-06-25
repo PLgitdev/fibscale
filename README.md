@@ -1,2 +1,0 @@
-# fibscaler
-Java trading bot 
